@@ -26,7 +26,8 @@ export default function Home() {
           <h1>3. Running fine....</h1>
           <h1>4. finally CI&CD first project is done....</h1>
           <h1>5. now running on Jenkins.....</h1>
-
+          <h1>6. Finally Jenkins pipeline is done....</h1>
+          <h1>7. Next up: ArgoCD + Kubernetes</h1>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
