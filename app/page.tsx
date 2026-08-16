@@ -23,7 +23,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
-          <h1>3. Running fine</h1>
+          <h1>3. Running fine....</h1>
           <h1>4. finally CI&CD first project is done</h1>
         </ol>
 
