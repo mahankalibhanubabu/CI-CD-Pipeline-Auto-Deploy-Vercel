@@ -24,7 +24,9 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <h1>3. Running fine....</h1>
-          <h1>4. finally CI&CD first project is done</h1>
+          <h1>4. finally CI&CD first project is done....</h1>
+          <h1>5. now running on Jenkins.....</h1>
+
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
